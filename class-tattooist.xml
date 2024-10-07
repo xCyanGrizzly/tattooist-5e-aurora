@@ -3,7 +3,7 @@
   <info>
     <name>Tattooist</name>
     <description>The tattooist class</description>
-    <author url="">Saag1997</author>
+    <author url="https://github.com/xCyanGrizzly/tattooist-5e-aurora">Saag1997</author>
     <update version="0.4.8">
       <file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
     </update>
