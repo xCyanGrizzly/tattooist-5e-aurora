@@ -694,21 +694,4 @@
   </element>
 
   
-
-  <element name="Tattooist tools" type="Item" source="Tome of mystical tattoos" id="ID_SA_TOMT_ITEM_TATTOOIST_TOOLS">
-    <description>
-      <p>The tattooist&quot;s tools are a type of artisan&quot;s tools consisting of two main components - the hammer and chisel. The chisel contains a simple mechanism that can twist to clasp onto needles of various widths. The hammer can act as an activator when it strikes the chisel, temporarily applying a magnetic property unique to magically-imbued inks into the needle. </p>
-      <p class="indent">One of the main uses of tattooist&quot;s tools in regards to magic tattoos is extraction. An individual holds the chisel affixed with an empty needle against an enchanted sketchbook page or skin upon which a magic tattoo is applied. The wielder then taps the opposite end of the chisel, drawing the tattoo design inside of the affixed, empty needle.</p>
-      <p class="indent">The tattooist&quot;s tools also include plenty of needles and medical supplies for sterilization. This is necessary in case the tattooist&quot;s tools are used to apply mundane tattoos as well. For non-magical tattoo applications, the chisel&quot;s needle can be dipped into the appropriate pigments and then hammered against an individual&quot;s skin, scales, or feathers to ink a tattoo.</p>
-    </description>
-    <setters>
-      <set name="category">Tools</set>
-      <set name="cost" currency="gp">30</set>
-      <set name="weight" lb="5">5 lbs.</set>
-      <set name="type">Tool</set>
-      <set name="proficiency">ID_PROFICIENCY_TOOL_PROFICIENCY_TATTOOIST_TOOLS</set>
-    </setters>
-  </element>
-
-  
 </elements>
