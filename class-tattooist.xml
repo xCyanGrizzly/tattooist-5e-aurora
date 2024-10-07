@@ -3,7 +3,7 @@
   <info>
     <name>Tattooist</name>
     <update version="0.4.8">
-      <file name="class-tattooist.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/class-tattooist.xml" />
+      <file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
     </update>
   </info>
 

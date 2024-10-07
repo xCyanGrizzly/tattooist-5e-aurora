@@ -3,16 +3,16 @@
 	<info>
 		<name>Tome of mystical tattoos</name>
 		<update version="0.2">
-			<file name="tome-of-mystical-tattoos.index" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/tome-of-mystical-tattoos.index" />
+			<file name="tome-of-mystical-tattoos.index" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/tome-of-mystical-tattoos.index" />
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/source.xml" />
 
 		<!-- classes -->
-		<file name="class-tattooist.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/class-tattooist.xml" />
+		<file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
 
 		<!-- items -->
-		<file name="items-tools.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/items-tools.xml" />
+		<file name="items-tools.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/items-tools.xml" />
 	</files>
 </index>

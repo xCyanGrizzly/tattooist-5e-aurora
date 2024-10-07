@@ -3,7 +3,7 @@
 	<info>
 	   <name>Tattooist: Tools</name>
 	   <update version="0.0.1">
-		   <file name="items-tools.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/items-tools.xml" />
+		   <file name="items-tools.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/items-tools.xml" />
 	   </update>
 	</info>
 
