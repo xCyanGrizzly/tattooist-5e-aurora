@@ -2,6 +2,8 @@
 <elements>
   <info>
     <name>Tattooist</name>
+    <description>The tattooist class</description>
+    <author url="http://www.dmsguild.com/product/170777/Blood-Hunter-Class">Saag1997</author>
     <update version="0.4.8">
       <file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
     </update>
