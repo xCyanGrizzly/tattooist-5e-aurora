@@ -6,21 +6,21 @@
 		</update>
 	</info>
 	<element name="Tome of mystical tattoos" type="Source" source="Core" id="ID_SA_TOMT_CLASS_TATTOOIST">
-        <description>
-          <![CDATA[<p></p>]]>
-        </description>
-        <setters>
-          <set name="abbreviation">TOMT</set>
-          <set name="url"></set>
-          <set name="image"></set>
-          <set name="author" abbreviation="SA">Saag1997</set>
-          <set name="official">false</set>
-          <set name="supplement">false</set>
-          <set name="playtest">false</set>
-          <set name="third-party">false</set>
-          <set name="homebrew">true</set>
-          <set name="league">false</set>
-          <set name="release">20240812</set>
-        </setters>
-      </element>
+    <description>
+      <![CDATA[<p></p>]]>
+    </description>
+    <setters>
+      <set name="abbreviation">TOMT</set>
+      <set name="url"></set>
+      <set name="image"></set>
+      <set name="author" abbreviation="SA">Saag1997</set>
+      <set name="official">false</set>
+      <set name="supplement">false</set>
+      <set name="playtest">false</set>
+      <set name="third-party">false</set>
+      <set name="homebrew">true</set>
+      <set name="league">false</set>
+      <set name="release">20240812</set>
+    </setters>
+  </element>
 </elements>
