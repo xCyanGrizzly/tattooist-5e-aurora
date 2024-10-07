@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="C:\Users\A00963355\OneDrive - Amaris Zorggroep\Documents\5e Character Builder\custom\user\source.xml" />
+			<file name="source.xml" url="https://github.com/xCyanGrizzly/tattooist-5e-aurora/blob/main/source.xml" />
 		</update>
 	</info>
 	<element name="Tome of mystical tattoos" type="Source" source="Core" id="ID_SA_TOMT_CLASS_TATTOOIST">
