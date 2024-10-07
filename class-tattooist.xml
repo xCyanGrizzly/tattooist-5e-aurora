@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Tattooist</name>
+    <update version="0.4.8">
+      <file name="class-tattooist.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/classes/class-tattooist.xml" />
+    </update>
+  </info>
+
+  <element name="Tattooist" type="Class" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_TATTOOIST">
+    <description>
+      <p>A chubby dwarf chuckles while applying the last drops of baleful ink onto his hammer, ensuring that his strike inflicts an extra dose of pain upon his unwitting target.</p>
+      <p class="indent">A deft-fingered gnome finishes her design with a final flourish of golden ink. Concentrating, she lifts the swirls from the page, decorating her fingertips with a few quick strokes.</p>
+      <p class="indent">The tattoo on the elf&quot;s arm began to glimmer as she places a steady hand upon her companion. Playful wisps of arcane energy dances around them, as the tattoo slides slowly from her onto the weary human—bestowing him with the means and magic to bring down the fearsome creature looming above.</p>
+      <p class="indent">hile her party rests, the tattooist works in the dying campfire light to sketch intricate tattoo designs in hopes of empowering her companions. In the heat of battle, a tattooist manipulates magic and ink to empower attacks, distribute mystical tattoos on the fly, and conceive new designs based on the arcane spellslinging of her opponents.</p>
+      <h4>VERSATILE DUELISTS</h4>
+      <p>Just as tattooists blur the line between artist and magician, so too can they occupy multiple niches on the battlefield. As keen observers will instantly recognize, tattooists have an uncanny vitality mystically fortified by their craft. Many tattooists do their best fighting on the frontlines, shrugging off some nasty hits in the process. While not as devoted to the practice of magical arts as most spellcasters, their ability to comprehend the intricacies of magic and incorporate the arsenal of others into their own is a formidable and perplexing challenge for their opponents.</p>
+      <h4>GROUNDBREAKING DESIGNS</h4>
+      <p>An adventuring party can be sure that a tattooist in their midst will do their utmost to carry their weight. As they struggle and persevere with the group, the selection of magic tattoos that tattooists are able to understand and produce expands in tandem.</p>
+      <p class="indent">Tattooists will often strive to improve themselves and their craft in different ways. Some may seek apprenticeship under proven virtuosos. Others may be aware of their genius and push forward on their own towards discoveries that change their profession in unfathomable ways. Ultimately, however, most tattooists are devoted to fashioning designs that can move the hearts and minds of others with both their beauty and their magical potential.</p>
+      <h4>CREATING A TATTOOIST</h4>
+      <p>As you create a tattooist, it is essential to consider the path you took and what compels your character to move forward. Are you self-taught, or did you have a legendary mentor? What sort of style have you adopted and how does this influence you beyond your artwork? What sets you apart from your peers?</p>
+      <p class="indent">Perhaps you were begrudgingly mentored by a skilled tattooist, who imparted to you knowledge that would have confounded a less capable apprentice. Maybe you were looking for a way to remain an artist while still braving the dangers that exist around every corner of this world. Or conceivably, you wish to journey to enrich your work, all the while building up your list of future clientele.</p>
+      <h5>QUICK BUILD</h5>
+      <p>You can make a tattooist quickly by following these suggestions. First, make Constitution your highest ability score, followed by Dexterity. Second, choose the acolyte background.</p>
+      <h4>MULTICLASSING AND THE TATTOOIST</h4>
+      <p>If your group uses the optional rule on multiclassing, here&quot;s what you need to know if you choose the tattooist as one of your classes.</p>
+      <p>
+        <b>Ability Score Minimum.</b> As a multiclass character, you must have at least a Constitution score of 13 to take a level in this class, or to take a level in another class if you are already a tattooist.</p>
+      <p>
+        <b>Proficiencies Gained.</b> If the tattooist isn&quot;t your initial class, you gain the following proficiencies when you take your first level as a tattooist: light armor, painter&quot;s supplies, and tattooist&quot;s tools.</p>
+      <p>
+        <b>Spellcasting.</b> Add half your levels (rounded up) in the tattooist class to the appropriate levels from other classes to determine your available spell slots. The number of spellbangers you apply on your body (as well as their spell level) remains tied to your individual level in the tattooist class.</p>
+      <p class="indent">Your list of learned spells that can be turned into spellbangers as a tattooist are completely separate from the spells you know and are able to prepare from other classes. </p>
+      <p class="indent">You can not create spellbangers for spells other than the two you obtain at the first level as a tattooist, and spells successfully observed using your Sketchy Imitation feature. </p>
+      <p class="indent">You also can&quot;t use spell slots to cast the two spells you learn to convert into spellbangers at the first level as a tattooist, or spells successfully observed using your Sketchy Imitation feature. If the spell is also a spell you know and can prepare because it is associated with another one of your classes, you use either your spell slots or your applied spellbangers to cast that spell (they are not the same resource). </p>
+      <h3>CLASS FEATURES</h3>
+      <p>As a tattooist, you gain the following class features.</p>
+      <h5>HIT POINTS</h5>
+      <ul class="unstyled">
+        <li>
+          <strong>Hit Dice:</strong> 1d8 per tattooist level</li>
+        <li>
+          <strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier</li>
+        <li>
+          <strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per tattooist level after 1st</li>
+      </ul>
+      <h5>PROFICIENCIES</h5>
+      <ul class="unstyled mb">
+        <li>
+          <strong>Armor:</strong> Light armor</li>
+        <li>
+          <strong>Weapons:</strong> Simple weapons</li>
+        <li>
+          <strong>Tools:</strong> Painter&quot;s supplies, tattooist&quot;s tools, one type of artisan&quot;s tools of your choice</li>
+      </ul>
+      <ul class="unstyled">
+        <li>
+          <strong>Saving Throws:</strong> Constitution, Charisma</li>
+        <li>
+          <strong>Skills:</strong> Choose two from Arcana, History, Insight, Investigation, Medicine, Nature, and Religion</li>
+      </ul>
+      <h5>EQUIPMENT</h5>
+      <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+      <ul>
+        <li>(a) a dagger, (b) any simple weapon</li>
+        <li>a diplomat&quot;s pack</li>
+        <li>an enchanted sketchbook and tattooist&quot;s tools</li>
+      </ul>
+      <h5 class="caption">THE TATTOOIST</h5>
+      <table class="class-features">
+        <thead>
+          <tr>
+            <td class="col-5">Level</td>
+            <td class="left">Features</td>
+            <td class="col-5">Magic Tattoo Designs Learned</td>
+            <td class="col-5">Applied Spellbangers per Spell Level</td>
+            <td>1st</td>
+            <td>2nd</td>
+            <td>3rd</td>
+            <td>4th</td>
+            <td>5th</td>
+            <td>6th</td>
+            <td>7th</td>
+            <td>8th</td>
+            <td>9th</td>
+          </tr>
+        </thead>
+        <tr>
+          <td> 1st</td>
+          <td class="left">Spellcasting, Sketchy Imitation</td>
+          <td>-</td>
+          <td>2</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 2nd</td>
+          <td class="left">Sketch Tattoo</td>
+          <td>4</td>
+          <td>2</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 3rd</td>
+          <td class="left">Tattooist Style, Bad Ink</td>
+          <td>4</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 4th</td>
+          <td class="left">Ability Score Improvement</td>
+          <td>4</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 5th</td>
+          <td class="left">Tattooist Style Feature</td>
+          <td>7</td>
+          <td>4</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 6th</td>
+          <td class="left">Trust The Process</td>
+          <td>7</td>
+          <td>4</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 7th</td>
+          <td class="left">Art Loan</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 8th</td>
+          <td class="left">Ability Score Improvement</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td> 9th</td>
+          <td class="left">Tattooist Style Feature</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>10th</td>
+          <td class="left">Expert Tattooist</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>11th</td>
+          <td class="left">Counterfeiter</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>12th</td>
+          <td class="left">Ability Score Improvement</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>13th</td>
+          <td class="left">-</td>
+          <td>7</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>1</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>14th</td>
+          <td class="left">Master Tattooist</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>1</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>15th</td>
+          <td class="left">Tattooist Style Feature</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>16th</td>
+          <td class="left">Ability Score Improvement</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>—</td>
+        </tr>
+        <tr>
+          <td>17th</td>
+          <td class="left">-</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>1</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>18th</td>
+          <td class="left">Genius Talent</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>1</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>19th</td>
+          <td class="left">Ability Score Improvement</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+        <tr>
+          <td>20th</td>
+          <td class="left">Virtuoso</td>
+          <td>9</td>
+          <td>4</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+          <td>2</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+          <td>-</td>
+        </tr>
+      </table>
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCHY_IMITATION" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SPELLCASTING_TATTOOIST" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCH_TATTOO" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_TATTOOIST_STYLE" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_BAD_INK" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_ABILITYSCOREIMPROVEMENT_TATTOOIST" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_EXPERT_TATTOOIST" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_COUNTERFEITER" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_MASTER_TATTOOIST" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_GENIUS_TALENT" />
+      <div element="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_VIRTUOSO" />
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="short">An inspiring magician whose power echoes the music of creation.</set>
+      <set name="hd">d8</set>
+    </setters>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_TATTOOIST_TOOLS" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_PAINTERS_SUPPLIES" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CHARISMA" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <select type="Proficiency" name="Skill Proficiency (Tattooist)" supports="Skill,Wizard" number="1" requirements="!ID_SA_TOMT_MULTICLASS_TATTOOIST"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCHY_IMITATION" level="1"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SPELLCASTING_TATTOOIST" level="1"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCH_TATTOO" level="2"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_TATTOOIST_STYLE" level="3"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_BAD_INK" level="3"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_ABILITYSCOREIMPROVEMENT_TATTOOIST" level="4"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_EXPERT_TATTOOIST" level="10"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_COUNTERFEITER" level="11"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_MASTER_TATTOOIST" level="14"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_GENIUS_TALENT" level="18"/>
+      <grant type="Class Feature" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_VIRTUOSO" level="20"/>
+    </rules>
+    <multiclass id="ID_SA_TOMT_MULTICLASS_TATTOOIST">
+      <prerequisite>Constitution 13</prerequisite>
+      <requirements>[con:13]</requirements>
+      <setters>
+        <set name="multiclass proficiencies">Light armor, one skill of your choice, one Artisan tool of your choice</set>
+      </setters>
+      <rules>
+        <grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
+        <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+        <select type="Proficiency" name="Skill Proficiency (Tattooist)" supports="Skill,Wizard" number="1" />
+        <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE" />
+        <grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_TATTOOIST_TOOLS"/>
+      </rules>
+    </multiclass>
+  </element>
+  <element name="Spellcasting" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SPELLCASTING_TATTOOIST">
+    <description>
+      <p>As a mystical tattoo artist, you have an enchanted sketchbook that you can use to create spellbangers. Spellbangers are the smallest type of magic tattoos, easily fitting upon your fingertips. They only require a few minutes of focus to sketch during a long rest. The application process for spellbangers is similar to the application process for magic tattoos, requiring spare needles and tattooist&quot;s tools in hand</p>
+      <center>Karl&quot;s Notes: A banger is industry slang for a tattoo that can be “banged” out quickly. It is essentially a smaller design that can be completed in a single session.</center>
+      <h5>PREPARING AND CASTING SPELLS</h5>
+      <p>At 1st level, you know two 1st-level spellbanger designs of your choice from any arcane caster class spell lists (Bard, Sorcerer, Warlock, or Wizard). The Tattooist table shows how many applied spellbangers of each spell level your body can sustain at your current tattooist level. Each spellbanger is designed for a specific spell and can only be utilized to cast that spell at its lowest level. Once the spell is cast, the spellbanger vanishes from your skin. You can expend multiple spellbangers of the same design, to incrementally increase the spells level for that casting. For instance, if you have two spellbangers for burning hands (a 1st-level spell), you can cast the spell on two separate occasions at 1st level or expend both tattoos to cast the spell at 2nd level. Unlike other tattoos that you create, spellbangers function in part thanks to your lived experience informing the magic imbued within their design. Tattooing a spellbanger on another creature does not grant them the ability to cast the spell. Once you have utilized all the applied spellbangers for a particular spell, they cannot be cast again in this way until reapplied. You can remove and apply as many spellbangers as your body can sustain during a long rest.</p>
+      <h5>SPELLCASTING ABILITY</h5>
+      <p>Applied directly onto the surface your skin, spellbangers are in the optimal place to draw freely from the magical energy coursing throughout your body. You therefore use your Constitution whenever a spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for any spell you cast using a spellbanger and when making an attack roll with one</p>
+      <center>
+        <p>
+          <strong>Spell save DC</strong> = 8 + your proficiency bonus + your Constitution modifier</p>
+        <p>
+          <strong>Spell attack modifier</strong> = your proficiency bonus + your Constitution modifier</p>
+      </center>
+      <h5>SPELLCASTING FOCUS</h5>
+      <p>You can use a tattooist&quot;s tools as a spellcasting focus for your tattooist spells.</p>
+      <h5>YOUR SKETCHBOOK</h5>
+      <p>he spellbangers you sketch in your enchanted sketchbook are a unique variant of the main branch of magic tattoos you can create. As you gain levels, you also gain more experience with the fascinating manner in which magic flows through all things in the multiverse. This allows you to find imaginative ways to manipulate the flow of magic on a smaller scale through your arcane designs. Your expertise inevitably allows you to better comprehend the tattoos created by others as well, whether discovered on the back of a traveling mercenary or a legendary deity. </p>
+      <h5>THE SKETCHBOOK&quot;S APPEARANCE</h5>
+      <p>Your sketchbook will often end up a mess of ink splotched parchment and scribbles. A sketchbook can come in many forms, sometimes as a pile of parchment clipped onto a flat plank of wood, or at other times just a hastily bound pile of sketches. Every tattooist&quot;s precious sketchbook is unique, each page treated with a generous amount of magical energy.</p>
+    </description>
+    <sheet display="false">
+      <description>You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.</description>
+    </sheet>
+    <spellcasting name="Tattooist" ability="Constitution" prepare="false" allowReplace="true">
+      <list>Tattooist</list>
+    </spellcasting>
+    <rules>
+      <grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_FULL" requirements="ID_INTERNAL_GRANT_MULTICLASS" />
+      <grant type="Grants" id="ID_INTERNAL_RITUAL_CASTING" />
+
+      <stat name="tattooist:spellcasting:slots:1" value="2" level="1" />
+      <stat name="tattooist:spellcasting:slots:1" value="1" level="3" />
+      <stat name="tattooist:spellcasting:slots:1" value="1" level="5" />
+      <stat name="tattooist:spellcasting:slots:2" value="2" level="5" />
+      <stat name="tattooist:spellcasting:slots:2" value="1" level="7" />
+      <stat name="tattooist:spellcasting:slots:3" value="2" level="9" />
+      <stat name="tattooist:spellcasting:slots:3" value="1" level="11" />
+      <stat name="tattooist:spellcasting:slots:4" value="1" level="13" />
+      <stat name="tattooist:spellcasting:slots:4" value="1" level="15" />
+      <stat name="tattooist:spellcasting:slots:4" value="1" level="17" />
+      <stat name="tattooist:spellcasting:slots:5" value="1" level="17" />
+      <stat name="tattooist:spellcasting:slots:5" value="1" level="19" />
+
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="1" number="2" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="3" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="5" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="5" number="2" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="7" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="9" number="2" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="11" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="13" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="15" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="17" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="17" number="1" spellcasting="Tattooist" />
+      <select type="Spell" name="Spellcasting (Tattooist)" supports="$(spellcasting:list), $(spellcasting:slots)" level="19" number="1" spellcasting="Tattooist" />
+    </rules>
+  </element>
+  <element name="Sketchy imitation" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCHY_IMITATION">
+    <description>
+      <p>At 1st level, you&quot;ve learned how to observe spells in the heat of battle and conceive spellbanger designs to recreate the effects of those spells. As a reaction when a creature (other than you) that you can see within 60 feet of you casts a spell from the Bard, Sorcerer, Warlock, or Wizard spell list, you can make an ability check using your tattooist spellcasting ability. The DC equals 10 + the spell&quot;s level. On a success, you can sketch a spellbanger representing that spell during a long rest within the next month. If you do not sketch the spellbanger within the allotted time, you must observe the spell being cast again. Once you have sketched a particular spellbanger, you may sketch it without needing to observe the spell again. The Tattooist table shows whether or not you can apply the spellbanger. You can use this feature a number of times equal to your Constitution modifier (minimum of once). You regain any expended uses when you finish a long rest.</p>
+      <h5>SKETCHBOOK</h5>
+      <p>At 1st level, you have an empty enchanted sketchbook. Your enchanted sketchbook acts as a repository for the spellbangers you sketch. Tattooists will only need to devote a single page of their sketchbook for sketching and accumulating spellbangers</p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Sketch tattoo" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_SKETCH_TATTOO">
+    <description>
+      <p>Starting at 2nd level, you&quot;ve gained the ability to sketch magic tattoos. </p>
+      <h5>TATTOO DESIGNS KNOWN</h5>
+      <p>When you gain this feature, you are able to pick four magic tattoo designs with a rarity of common to learn. When you gain a level in this class, you can replace two of the magic tattoo designs you learned, with two new ones. </p>
+      <h5>SKETCHING A MAGIC TATTOO</h5>
+      <p>Whenever you take a short or long rest, you can use 1 hour as light activity to sketch one of your known magic tattoo designs into your enchanted sketchbook. A creature can attune to the magic tattoo immediately after you complete the sketch, provided you conduct a quick application before the long rest ends. If you or another creature decides to attune to the magic tattoo later, you must undergo the usual process for attunement.A magic tattoo retains its properties and remains a magic item indefinitely. This remains true even if the original tattooist dies.</p>
+      <h5>MATERIAL COSTS</h5>
+      <p>A character requesting a tattoo or a tattooist sketching a tattoo must have the appropriate materials to do so. There always needs to be a formula in place for creating a magic tattoo. The enduring fortitude tattoo (page 102) can be used as an example. This was a tattoo designed to help an individual resist disease, poison, and the effects of alcohol.While ink and a capable tattooist are necessary in tattoo creation, so too are the constituent material components. These materials are similar to the components necessary for crafting other, equally-potent magic items. For a magic tattoo like the enduring fortitude tattoo, the requisite materials can range from the poisonous mandibles of a fearsome creature to a bottle of exquisite alcohol only produced in a distant land (or both). The necessary components are all magically broken down and mixed in with the ink before a tattooist even begins sketching a magic tattoo. The suggested challenge rating of a creature for a party to face in pursuit of material components is included in the Suggested CR for Exotic Material Gathering table. Most material components necessary for this process can also be found at tattoo parlors (though stock can fluctuate wildly between establishments). The cost of crafting components for magic tattoos is around half the average price provided on the Magic Tattoos Price Guide table depending on the tattoo&quot;s rarity. </p>
+      <h5>COPYING A MAGIC TATTOO</h5>
+      <p>There will be times during your journey where you discover a magic tattoo, perhaps applied on a creature or sketched upon another tattooist&quot;s sketchbook page, that you wish to make your own.If the tattoo you wish to copy into your enchanted sketchbook is of a rarity you are able to sketch, the process requires direct vision of the magic tattoo for 1 hour and all the necessary material components. If the tattoo you wish to copy into your enchanted sketchbook is of a rarity you are not yet able to sketch, the process requires direct vision of the magic tattoo for 3 hours and all the necessary material components. After the process, you must make an ability check using your tattooist spellcasting ability. The DC equals 15 + 2 per level of rarity above the highest level of rarity you are currently able to sketch. For instance, if you wish to copy a magic tattoo with a rarity of very rare but are only able to learn magic tattoo designs with a rarity of common, then the DC is 21. On a success, you are able to copy the magic tattoo. On a fail, you are unable to copy the magic tattoo and the material components you used for the process are wasted.Your copied magic tattoo designs do not count towards your total learned magic tattoo designs, and copied magic tattoo designs do not remain fixed in your mind for sketching again later.</p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Tattooist Style" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_TATTOOIST_STYLE">
+    <description>
+      <p>At 3rd level, you delve into the advanced techniques of a tattooist style of your choice. Your choice grants you features at 5th level and again at 9th and 15th level.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Archetype" name="Tattooist Style" supports="Tattooist Style" level="3"/>
+    </rules>
+  </element>
+  <element name="Bad ink" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_BAD_INK">
+    <description>
+      <p>At 3rd level, you have learned how to apply defective magical ink onto weapons. To use this ability, you must have tattooist&quot;s tools in hand. You can use a bonus action to unload and apply charges of Bad Ink onto the weapon of a willing creature within 5 feet of you</p>
+    </description>
+    <sheet action="Bonus Action">
+      <description>
+        <p>You can use a bonus action to unload and apply charges of Bad Ink onto the weapon of a willing creature within 5 feet of you</p>
+        <p>On the next hit using that weapon, it does an additional 1d6 acid damage per charge applied and the ink vanishes. If you don&quot;t hit a target with the inked weapon within the next hour, the Bad Ink fades away. You have a number of charges equal to your Constitution modifier (minimum of one). You regain any expended uses when you finish a long rest. </p>
+        <p>The additional damage die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level</p>
+      </description>
+    </sheet>
+  </element>
+  <element name="Ability Score Improvement" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_ABILITYSCOREIMPROVEMENT_TATTOOIST">
+    <compendium display="false" />
+    <description>
+      <p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&quot;t increase an ability score above 20 using this feature.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Class Feature" name="Improvement Option (Tattooist 4)" supports="Improvement Option,Tattooist,4" level="4" />
+      <select type="Class Feature" name="Improvement Option (Tattooist 8)" supports="Improvement Option,Tattooist,8" level="8" />
+      <select type="Class Feature" name="Improvement Option (Tattooist 12)" supports="Improvement Option,Tattooist,12" level="12" />
+      <select type="Class Feature" name="Improvement Option (Tattooist 16)" supports="Improvement Option,Tattooist,16" level="16" />
+      <select type="Class Feature" name="Improvement Option (Tattooist 19)" supports="Improvement Option,Tattooist,19" level="19" />
+    </rules>
+  </element>
+  <element name="Trust the process" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_TRUST_THE_PROCESS">
+    <description>
+      <p>At 6th level, you are able to pick three magic tattoo designs with a rarity of uncommon to learn. When you gain a level in this class, you can replace two of the magic tattoo designs you learned, with two new ones. </p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Art loan" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_ART_LOAN">
+    <description>
+      <p>At 7th level, you&quot;ve learned how to manipulate magic tattoos in unusual ways. With tattooist&quot;s tools in hand, you can use an action to magically transfer one of your magic tattoos from yourself onto one willing creature within 5 feet of you that has an available attunement slot. The creature may use that magic tattoo as if they were attuned to it. This exchange is reversed after a short or long rest, at which point the transferred magic tattoo disappears from the creature&quot;s skin and reappears on yours.A creature can only benefit from Art Loan from one tattooist at a time.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>At 7th level, you&quot;ve learned how to manipulate magic tattoos in unusual ways. With tattooist&quot;s tools in hand, you can use an action to magically transfer one of your magic tattoos from yourself onto one willing creature within 5 feet of you that has an available attunement slot. The creature may use that magic tattoo as if they were attuned to it. This exchange is reversed after a short or long rest, at which point the transferred magic tattoo disappears from the creature&quot;s skin and reappears on yours.A creature can only benefit from Art Loan from one tattooist at a time.</p>
+      </description>
+    </sheet>
+  </element>
+  <element name="Expert tattooist" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_EXPERT_TATTOOIST">
+    <description>
+      <p>When you reach the 10th level, you have gained an astute understanding of magic tattoo application. While you use at least three attunement slots to attune to magic tattoos, you can attune to one more magic tattoo without requiring an attunement slot. If fewer than three of your attunement slots are used to attune to magic tattoos, you lose this bonus attunement</p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Counterfeiter" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_COUNTERFEITER">
+    <description>
+      <p>At 11th level, your skill for manipulation of mystical tattoos has deepened immensely. You gain additional properties for certain class features. </p>
+      <p class="indent">During a long rest, you can now apply one spellbanger of 6th or 7th level</p>
+      <p class="indent">When you use Art Loan, you also retain a copy of the magic tattoo you transfer to your ally. The transferred tattoo still disappears from the target&quot;s skin after a short or long rest.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>At 11th level, your skill for manipulation of mystical tattoos has deepened immensely. You gain additional properties for certain class features. </p>
+        <p class="indent">During a long rest, you can now apply one spellbanger of 6th or 7th level</p>
+        <p class="indent">When you use Art Loan, you also retain a copy of the magic tattoo you transfer to your ally. The transferred tattoo still disappears from the target&quot;s skin after a short or long rest.</p>
+      </description>
+    </sheet>
+  </element>
+  <element name="Master tattooist" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_MASTER_TATTOOIST">
+    <description>
+      <p>At 14th level, you are able to pick two magic tattoo designs with a rarity of rare to learn. When you gain a level in this class, you can replace two of the magic tattoo designs you learned, with two new ones. </p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Genius Talent" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_GENIUS_TALENT">
+    <description>
+      <p>Starting at 18th level, your tremendous ability for magic tattoos is beginning to draw attention across the land. While you use at least three attunement slots to attune to magic tattoos, you can attune to two more magic tattoos without requiring attunement slots. If fewer than three of your attunement slots are used to attune to magic tattoos, you lose these bonus attunements.</p>
+    </description>
+    <sheet display="false" />
+  </element>
+  <element name="Virtuoso" type="Class Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_CLASS_FEATURE_TATTOOIST_VIRTUOSO">
+    <description>
+      <p>At 20th level, you have grown to thoroughly understand the complex magical pathways that flow between all things. You apply that to your work:</p>
+      <p class="indent">You can replace two magic tattoo designs you learned with two new ones during a long rest.</p>
+      <p class="indent">You gain a +1 bonus to all saving throws per magic tattoo to which you are currently attuned.</p>
+      <p class="indent">During a long rest, you can now apply one spellbanger of the 8th or 9th level.</p>
+    </description>
+    <sheet>
+      <description>
+        <p>At 20th level, you have grown to thoroughly understand the complex magical pathways that flow between all things. You apply that to your work:</p>
+        <p class="indent">You can replace two magic tattoo designs you learned with two new ones during a long rest.</p>
+        <p class="indent">You gain a +1 bonus to all saving throws per magic tattoo to which you are currently attuned.</p>
+        <p class="indent">During a long rest, you can now apply one spellbanger of the 8th or 9th level.</p>
+      </description>
+    </sheet>
+  </element>
+
+  <!-- Neo traditional style -->
+  <element name="Neo traditional style" type="Archetype" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_NEO_TRADITIONAL_STYLE">
+    <supports>Tattooist Style</supports>
+    <description>
+      <p>Many tattooists who adopt the Neo Traditional style have admitted to feeling the same rush charging into the frontlines of battle as they do when designing exquisite and evocative tattoos in their parlor. For these artist-warriors, it is crucial to maintain the tattooist traditions while incorporating innovative new ways to polish their work and become more formidable on the battlefield</p>
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BONUS_PROFICIENCIES" />
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_FIGHTINGSTYLE" />
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ART_OF_WAR" />
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_EXTRA_ATTACK" />
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BEAUTIFUL_STRIKES" />
+      <div element="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ARTFUL_TACTICIAN" />
+    </description>
+    <sheet display="false">
+      <description>Many tattooists who adopt the Neo Traditional style have admitted to feeling the same rush charging into the frontlines of battle as they do when designing exquisite and evocative tattoos in their parlor. For these artist-warriors, it is crucial to maintain the tattooist traditions while incorporating innovative new ways to polish their work and become more formidable on the battlefield</description>
+    </sheet>
+    <rules>
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BONUS_PROFICIENCIES" level="3" />
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_FIGHTINGSTYLE" level="3" />
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ART_OF_WAR" level="3" />
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_EXTRA_ATTACK" level="5" />
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BEAUTIFUL_STRIKES" level="9" />
+      <grant type="Archetype Feature" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ARTFUL_TACTICIAN" level="15" />
+    </rules>
+  </element>
+  <element name="Bonus Proficiencies" type="Archetype Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BONUS_PROFICIENCIES">
+    <description>
+      <p>When you adopt the Neo Traditional style at 3rd level, you gain proficiency with martial weapons and adopt a Fighting Style.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" />
+    </rules>
+  </element>
+  <element name="Fighting Style" type="Archetype Feature" source="Player&quot;s Handbook" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_FIGHTINGSTYLE">
+    <description>
+      <p>At 10th level, you can choose a option from the Fighting Style class feature.</p>
+    </description>
+    <sheet>
+      <description>You adopt a style of fighting as your specialty.</description>
+    </sheet>
+    <rules>
+      <select type="Class Feature" name="Fighting Style" supports="Fighting Style, Fighter" level="3"/>
+    </rules>
+  </element>
+  <element name="Art of war" type="Archetype Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ART_OF_WAR">
+    <description>
+      <p>Also at 3rd level, you have become deadlier with weapons in battle.</p>
+    </description>
+    <sheet>
+      <description>You can use a bonus action to apply Bad Ink onto weapons without holding tattooist&quot;s tools. In addition, while you have Bad Ink applied, your weapon is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage</description>
+    </sheet>
+  </element>
+  <element name="Extra Attack" type="Archetype Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_EXTRA_ATTACK">
+    <description>
+      <p>Starting at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+    </description>
+    <sheet>
+      <description>You can attack twice, instead of once, whenever you take the Attack action on your turn.</description>
+    </sheet>
+    <rules>
+      <stat name="extra attack:count" value="2" level="5" bonus="extra attack" />
+    </rules>
+  </element>
+  <element name="Battle Magic" type="Archetype Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_BEAUTIFUL_STRIKES">
+    <description>
+      <p>At 9th level, you&quot;ve found another destructive way to harness the arcane energy within your spellbangers. Whenever you hit a target with a weapon attack, you can expend one spellbanger to deal additional force damage equal to 1d6 + 1d6 per spell level of the expended spellbanger.</p>
+    </description>
+  </element>
+  <element name="Battle Magic" type="Archetype Feature" source="Tome of mystical tattoos" id="ID_SA_TOMT_ARCHETYPE_FEATURE_TATTOOIST_NEO_TRADITIONAL_STYLE_ARTFUL_TACTICIAN">
+    <description>
+      <p>At 15th level, you have mastered the art of manipulating your magic and weapons in tandem to cause chaos on the battlefield. Spellbangers you cast at 1st or 2nd level have a casting time of one bonus action if you have taken the Attack action that turn.</p>
+    </description>
+  </element>
+
+  
+
+  <element name="Tattooist tools" type="Item" source="Tome of mystical tattoos" id="ID_SA_TOMT_ITEM_TATTOOIST_TOOLS">
+    <description>
+      <p>The tattooist&quot;s tools are a type of artisan&quot;s tools consisting of two main components - the hammer and chisel. The chisel contains a simple mechanism that can twist to clasp onto needles of various widths. The hammer can act as an activator when it strikes the chisel, temporarily applying a magnetic property unique to magically-imbued inks into the needle. </p>
+      <p class="indent">One of the main uses of tattooist&quot;s tools in regards to magic tattoos is extraction. An individual holds the chisel affixed with an empty needle against an enchanted sketchbook page or skin upon which a magic tattoo is applied. The wielder then taps the opposite end of the chisel, drawing the tattoo design inside of the affixed, empty needle.</p>
+      <p class="indent">The tattooist&quot;s tools also include plenty of needles and medical supplies for sterilization. This is necessary in case the tattooist&quot;s tools are used to apply mundane tattoos as well. For non-magical tattoo applications, the chisel&quot;s needle can be dipped into the appropriate pigments and then hammered against an individual&quot;s skin, scales, or feathers to ink a tattoo.</p>
+    </description>
+    <setters>
+      <set name="category">Tools</set>
+      <set name="cost" currency="gp">30</set>
+      <set name="weight" lb="5">5 lbs.</set>
+      <set name="type">Tool</set>
+      <set name="proficiency">ID_PROFICIENCY_TOOL_PROFICIENCY_TATTOOIST_TOOLS</set>
+    </setters>
+  </element>
+
+  
+</elements>
