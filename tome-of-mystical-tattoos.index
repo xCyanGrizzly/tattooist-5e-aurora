@@ -13,6 +13,7 @@
 
 		<!-- classes -->
 		<file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
+		<file name="class-test.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-test.xml" />
 
 		<!-- items -->
 		<file name="items-tools.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/items-tools.xml" />
