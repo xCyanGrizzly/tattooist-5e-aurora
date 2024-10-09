@@ -2,18 +2,15 @@
 <index>
 	<info>
 		<name>Tome of mystical tattoos</name>
-		<description>The Player’s Handbook is the essential reference for every Dungeons &amp; Dragons roleplayer. It contains rules for character creation and advancement, backgrounds and skills, exploration and combat, equipment, spells, and much more. Use this book to create exciting characters from among the most iconic D&amp;D races and classes.</description>
+		<description>The Tome of mystical tattoos is the essential reference for every Dungeons &amp; Dragons roleplayer. It contains rules for character creation and advancement, backgrounds and skills, exploration and combat, equipment, spells, and much more. Use this book to create exciting characters from among the most iconic D&amp;D races and classes.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2">
 			<file name="tome-of-mystical-tattoos.index" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/tome-of-mystical-tattoos.index" />
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/source.xml" />
-
 		<!-- classes -->
 		<file name="class-tattooist.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-tattooist.xml" />
-		<file name="class-test.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-test.xml" />
 
 		<!-- items -->
 		<file name="items-tools.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/items-tools.xml" />
