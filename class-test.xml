@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-	<info>
-		<name>Pugilist</name>
-		<description>A Streetfighter with swager to spare</description>
-		<author url="https://www.dmsguild.com/browse.php?author=Benjamin%20Huffman">Benjamin Huffman</author>
-		<update version="0.0.5">
-			<file name="class-test.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/class-test.xml" />
-		</update>
-	</info>
 
 	<element name="The Tattooist Class" type="Source" source="Core" id="ID_SA_TOMT_SOURCE_THE_TEST_CLASS">
 		<description>
