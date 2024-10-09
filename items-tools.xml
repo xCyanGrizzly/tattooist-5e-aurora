@@ -2,29 +2,29 @@
 <elements>
 	<info>
 	   <name>Tattooist: Tools</name>
-	   <update version="0.0.1">
+	   <update version="0.0.2">
 		   <file name="items-tools.xml" url="https://raw.githubusercontent.com/xCyanGrizzly/tattooist-5e-aurora/refs/heads/main/items-tools.xml" />
 	   </update>
 	</info>
 
   
-	<element name="The tattooist items" type="Source" source="Core" id="ID_SA_TOMT_CLASS_TATTOOIST_ITEMS">
+	<element name="Tome of mystical tattoos items" type="Source" source="Core" id="ID_SA_TOMTI_SOURCE_TOME_OF_MYSTICAL_TATTOOS">
 		<description>
 			<p>With nothing but their wits, will, and fists, pugilists lay it all on the table every time they’re in for a scrap. No strangers to adversity, pugilists can dish it out, take a licking and still keep coming back for more. A pugilist’s unbreakable spirit and talent for fisticuffs don’t come from rigorous training or high minded philosophies but are the hard won trophies of never backing down from a fight no matter the odds.</p>
 			<p>All pugilists belong to a Fight Club, an informal fraternity of brawlers with similar style, that shapes the way they fight. Fight Clubs included in the full version of the Pugilist class are: Arena Royale, Bloodhound Bruisers, Dog &amp; Hound, Hand of Dread, Piss &amp; Vinegar, the Squared Circle, and the Sweet Science. Whether you’re interested in playing an adventuring luchador, a boxer fighting the good fight, or a hard-nosed detective with a penchant for pugilism, these Fight Clubs have you covered!</p>
 		</description>
 		<setters>
-			<set name="abbreviation">TOMT</set>
-			<set name="url">https://www.dmsguild.com/product/184921/the-Pugilist-Class</set>
-			<set name="image">https://www.dmsguild.com/images/8957/184921.jpg</set>
-			<set name="author" url="https://www.dmsguild.com/browse.php?author=Benjamin%20Huffman">Benjamin Huffman</set>
+      <set name="abbreviation">TOMTI</set>
+      <set name="url"></set>
+      <set name="image"></set>
+      <set name="author" abbreviation="SA">Saag1997</set>
 			<set name="third-party">true</set>
 			<set name="release">20241009</set>
 		</setters>
 	</element>
 
 
-  <element name="Tattooist tools" type="Item" source="Tome of mystical tattoos" id="ID_SA_TOMT_ITEM_TATTOOIST_TOOLS">
+  <element name="Tattooist tools" type="Item" source="Tome of mystical tattoos items" id="ID_SA_TOMTI_ITEM_TATTOOIST_TOOLS">
     <description>
       <p>The tattooist&quot;s tools are a type of artisan&quot;s tools consisting of two main components - the hammer and chisel. The chisel contains a simple mechanism that can twist to clasp onto needles of various widths. The hammer can act as an activator when it strikes the chisel, temporarily applying a magnetic property unique to magically-imbued inks into the needle. </p>
       <p class="indent">One of the main uses of tattooist&quot;s tools in regards to magic tattoos is extraction. An individual holds the chisel affixed with an empty needle against an enchanted sketchbook page or skin upon which a magic tattoo is applied. The wielder then taps the opposite end of the chisel, drawing the tattoo design inside of the affixed, empty needle.</p>
